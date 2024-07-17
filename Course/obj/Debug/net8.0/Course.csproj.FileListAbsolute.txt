@@ -1,0 +1,14 @@
+C:\Users\bruno\OneDrive\LinguagemDeProgramacao\CSharp\secao9\exercicio3\Course\bin\Debug\net8.0\Course.exe
+C:\Users\bruno\OneDrive\LinguagemDeProgramacao\CSharp\secao9\exercicio3\Course\bin\Debug\net8.0\Course.deps.json
+C:\Users\bruno\OneDrive\LinguagemDeProgramacao\CSharp\secao9\exercicio3\Course\bin\Debug\net8.0\Course.runtimeconfig.json
+C:\Users\bruno\OneDrive\LinguagemDeProgramacao\CSharp\secao9\exercicio3\Course\bin\Debug\net8.0\Course.dll
+C:\Users\bruno\OneDrive\LinguagemDeProgramacao\CSharp\secao9\exercicio3\Course\bin\Debug\net8.0\Course.pdb
+C:\Users\bruno\OneDrive\LinguagemDeProgramacao\CSharp\secao9\exercicio3\Course\obj\Debug\net8.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\OneDrive\LinguagemDeProgramacao\CSharp\secao9\exercicio3\Course\obj\Debug\net8.0\Course.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\LinguagemDeProgramacao\CSharp\secao9\exercicio3\Course\obj\Debug\net8.0\Course.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\LinguagemDeProgramacao\CSharp\secao9\exercicio3\Course\obj\Debug\net8.0\Course.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\LinguagemDeProgramacao\CSharp\secao9\exercicio3\Course\obj\Debug\net8.0\Course.dll
+C:\Users\bruno\OneDrive\LinguagemDeProgramacao\CSharp\secao9\exercicio3\Course\obj\Debug\net8.0\refint\Course.dll
+C:\Users\bruno\OneDrive\LinguagemDeProgramacao\CSharp\secao9\exercicio3\Course\obj\Debug\net8.0\Course.pdb
+C:\Users\bruno\OneDrive\LinguagemDeProgramacao\CSharp\secao9\exercicio3\Course\obj\Debug\net8.0\Course.genruntimeconfig.cache
+C:\Users\bruno\OneDrive\LinguagemDeProgramacao\CSharp\secao9\exercicio3\Course\obj\Debug\net8.0\ref\Course.dll
